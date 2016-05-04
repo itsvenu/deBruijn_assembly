@@ -30,3 +30,5 @@ for(my $i=0; $i<=$#short_reads; $i++){
 
 my $end_res2 = join('',@all_end_res);
 print $first_read.$end_res2,"\n";
+
+##END 
